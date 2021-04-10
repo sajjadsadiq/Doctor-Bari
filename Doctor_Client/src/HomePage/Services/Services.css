@@ -1,0 +1,21 @@
+.details-container{
+    margin-top: 30px;
+    border: 1px solid rgb(235, 235, 235);
+    padding: 30px;
+}
+.services{
+    margin-top: 120px;
+}
+h5{
+    color: #1CC7C1;
+}
+h2{
+    color: #3A4256;
+}
+img{
+    height: 50px;
+
+}
+.titleName{
+    margin: 15px 0;
+}
